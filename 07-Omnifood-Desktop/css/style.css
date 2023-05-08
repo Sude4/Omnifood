@@ -14,9 +14,9 @@ body{
 }
 .test{
     /* width: 1000px; */
-    background-color: red;
+    /* background-color: red;
     padding: 4rem;
-    max-width: 50rem;
-    font-size: 2rem;
-    color: #fff;
+    max-width: 50rem; */
+    font-size: 62.5%;
+    /* color: #fff; */
 }
